@@ -1,2 +1,5 @@
-# standard-php
-page standard php
+// standard-php
+//page standard php
+<?php
+echo " Hello world";
+?>
