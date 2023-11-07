@@ -1,3 +1,4 @@
+
 <?php
 echo "<h1><center> Table de multiplication </center> </h1>";
 echo" <center><form method='post' alt='formulaire'>";
